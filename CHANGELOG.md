@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-collection-macros` will be documented in this file
 
+## 8.1.0 - 2026-02-20
+
+Add Laravel 13 support
+
 ## 8.0.2 - 2025-11-28
 
 ### What's Changed
